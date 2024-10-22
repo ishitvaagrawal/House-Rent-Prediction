@@ -46,8 +46,6 @@ The project utilizes TensorFlow to build an LSTM model suitable for sequential d
 The trained LSTM model's performance is evaluated using metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). The predictions are visualized using line plots to compare the model's predictions with the actual house rent prices.
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
