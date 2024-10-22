@@ -29,24 +29,7 @@ To run this project, ensure you have Python and the following libraries installe
 - plotly
 - jupyter
 
-You can install them using the following command:
 
-```bash
-pip install pandas numpy scikit-learn tensorflow matplotlib seaborn jupyter
-```
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Mohshaikh23/House-Rent-Prediction.git
-cd house-rent-prediction
-```
-
-2. Launch Jupyter Notebook:
-
-```bash
 jupyter notebook
 ```
 
@@ -62,9 +45,6 @@ The project utilizes TensorFlow to build an LSTM model suitable for sequential d
 
 The trained LSTM model's performance is evaluated using metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). The predictions are visualized using line plots to compare the model's predictions with the actual house rent prices.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you find any issues or have suggestions for improvements.
 
 ## License
 
